@@ -72,6 +72,9 @@ The final dashboard presents a rough overview of each department’s activities 
 ### 4.1 Sales Dashboard Analisis
 ### 4.2 Marketing Dashboard Analisis
 ### 4.3 Bus Dev Dashboard Analisis
+After BI team present dashboard, the a/b test result uses statistical tests to determine the significance value of the existing landing page tests based on the dataset provided by the bus dev team.
+Team BI get p value of 0.189 was obtained from statistical tests conducted for January cumulative data for a total of 294,475 consumers with a total of 24 days, which is greater than 0.05, indicating that the old landing page test and the new landing page test do not have a significant difference.
+
 
 ## 5. Reference
 Dataset:
