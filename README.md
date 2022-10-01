@@ -49,19 +49,23 @@ c) Dashboards should be easy to use, compact, and give a clear picture of each d
     - Dashboard is always open for requests based on each department needs
       Request will be queued on BI team pipeline
 
-
+![User flow](https://user-images.githubusercontent.com/102814373/193417612-967c1655-551a-402b-ab5d-2ee320e33990.png)
 
 ### 3.2 MVP - Dashboard
 a) Sales Dahsboard
 ![Sales dashboard](https://user-images.githubusercontent.com/102814373/193417347-cb9a0c05-a3ed-4d30-b6dc-608f886957ae.png)
 
+
 b) Marketing Dashboard
 
 ![marketing dashboard](https://user-images.githubusercontent.com/102814373/193417419-663fb988-1b66-49e2-a6f2-01a2537bcbe0.png)
 
+
+
 c) Bus Dev Dashboard
 
 ![ab test dashboard](https://user-images.githubusercontent.com/102814373/193417444-1fdcafba-5d59-4d77-ae12-604da9432708.png)
+
 
 ## 4. Analysis and Result
 The final dashboard presents a rough overview of each department’s activities and needs. Within this subchapter, we would like to elaborate more regarding dashboard analysis in order to answer each department’s inquiries regarding the data.
