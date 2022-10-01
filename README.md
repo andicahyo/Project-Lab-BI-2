@@ -14,6 +14,34 @@ b) Each Department would have their own dedicated Dashboard.
 c) Dashboards should be easy to use, compact, and give a clear picture of each department's performance.
 
 ### 2.3 User Persona
+**a) C-Level (Management)**
+  * What they do
+    - Oversee all business operations and decisions and are responsible for the success of the organization
+  * What they need:
+    - Overview performance sales, marketing, bis dev department
+    - Clear information, compact, easy to understand within 5 minutes of reading.
+
+**b) Business Development Dept**
+  * What they do:
+    - Identifying and taking advantage of growth opportunities.
+  * What they need:
+    - Visual report of a/b testing result that they have conducted
+    
+**c) Marketing Dept.**
+  * What they do:
+    - Reach out to prospects, customers, investors and/or the community, while creating an overarching image that represents your company in a positive light.
+  * What they need:
+    - Presenting which target market has the greatest potential per period, as well as recommendations for the next target market to target based on existing data.
+    - percentage of purchase compare to visit
+    - Progress to see percentage campaign achievement
+
+**d) Sales Dept.**
+  * What they do:
+    - Overseeing what the sales team is doing, making plans and setting targets. It also includes generally ensuring the efficiency of the sales process to get the best result for the business
+  * What they need:
+    - Allows sales management and clients to easily track data sources and see whether sales forecasts are being met.
+    - Having a clear and reliable data set means there will be better decision-making
+
 ## 3. Overview Process
 ### a) Data Extracting
   We have several datasets that are given from several departments that we can get some information to analyze the data. We proposed a comprehensive dashboard to c-level that will help the organization thrive. There the list of dataset below:
