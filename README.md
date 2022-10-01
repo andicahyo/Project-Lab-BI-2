@@ -26,6 +26,10 @@ c) Dashboards should be easy to use, compact, and give a clear picture of each d
     - Order product dataset
 * Marketing Dataset
 * BizDev - A/B testing Dataset
+* Data schema
+
+![data schema](https://user-images.githubusercontent.com/102814373/193418657-1fe5ff7c-bcab-4b5e-a22c-1d5f0c227ca7.png)
+
 
 ### b) Data Cleaning and Processing
 * Change the (_) in the product category column to a space
