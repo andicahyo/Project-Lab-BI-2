@@ -102,7 +102,24 @@ c) Bus Dev Dashboard
 ## 4. Analysis and Result
 The final dashboard presents a rough overview of each department’s activities and needs. Within this subchapter, we would like to elaborate more regarding dashboard analysis in order to answer each department’s inquiries regarding the data.
 ### 4.1 Sales Dashboard Analisis
+* The C-Levels noticed that there is a slight drop of total sales in the current quarter than in the last quarter. What steps could the company take to have an increase in sales in this quarter?
+    - First, let’s analyze the dashboard and look for certain information comparing the current quarter and the last quarter.
+    - By comparing the [Late delivery%] and [Late shipment%] in the current quarter and the last quarter, by using the [Timeframe] filter from April 2018 to August 2018, it shows that there is an increase of % in the current quarter. The company can take steps to evaluate the operational processes of delivery, including the carrier partner performance. 
+    - By clicking on the category, the [Running Sales per Quarter] time series chart can show how each category performs in each quarter. Clicking on the category ‘Health and Beauty’ and ‘Telephone’ shows that this Category has an increase of sales in this quarter than the last quarter. Looking at the table [User/Seller Stat], reader can see which city has the most User or Seller. 
+    - From the data above the company can focus on doing more sales in the categories that have a higher sales in this quarter. From focusing on doing advertising in those categories and also doing collaboration with sellers in certain cities that yield higher sales.
+
 ### 4.2 Marketing Dashboard Analisis
+* Why is the [Age Group] divided by 10 years instead of Generation/Era?
+    - Due to many interpretations regarding Generation and birth year, and in order to minimize misunderstanding, the B.I. Team decided to group user birth years by 10 years each.
+* How could the dashboard help the Marketing Dept. in planning a reactivation campaign for users who have been inactive for more than 7 days?
+    - Aim cursor to [Purchase Recency] table. Select the rows for “Last 14 Days” and “Last 30 Days”. Wait for the dashboard to load information.
+    - For more detailed planning, use [Age Filter] to select certain age groups.
+* How come there are no dedicated Recency, Frequency, and Monetary Value (RFM) charts within the dashboard?
+    - In order to increase visibility of the actual data, minimize steps-needed to access information, and to synchronize the [Age Group] filter for the whole dashboard, the B.I. team decided to break down RFM into dedicated parts.
+    - “Recency” and “Frequency” could be viewed on [Purchase Recency] chart;
+    - Overall view of “Monetary Value” could be viewed on [Overall Avg. Spending per Category] and a more detailed view per Age Group could be viewed in [Avg. Spending Per Age Group] chart.
+
+
 ### 4.3 Bus Dev Dashboard Analisis
 After BI team present dashboard, the a/b test result uses statistical tests to determine the significance value of the existing landing page tests based on the dataset provided by the bus dev team.
 Team BI get p value of 0.189 was obtained from statistical tests conducted for January cumulative data for a total of 294,475 consumers with a total of 24 days, which is greater than 0.05, indicating that the old landing page test and the new landing page test do not have a significant difference.
