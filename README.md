@@ -124,6 +124,9 @@ The final dashboard presents a rough overview of each department’s activities 
 After BI team present dashboard, the a/b test result uses statistical tests to determine the significance value of the existing landing page tests based on the dataset provided by the bus dev team.
 Team BI get p value of 0.189 was obtained from statistical tests conducted for January cumulative data for a total of 294,475 consumers with a total of 24 days, which is greater than 0.05, indicating that the old landing page test and the new landing page test do not have a significant difference.
 
+* What can be done if you want to test to produce power above 80%? Is it possible?
+    - No, after further investigation with the calculation of power statistics it is impossible to be above 80% at that time.
+
 
 ## 5. Reference
 Dataset:
